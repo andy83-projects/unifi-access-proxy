@@ -1,0 +1,3 @@
+# Core emulator uses standard library only (asyncio, socket, struct, http.server)
+# Development & Testing
+pytest>=8.0.0
